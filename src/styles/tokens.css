@@ -1,0 +1,23 @@
+:root {
+  /* Color */
+  --ink: #10192E;
+  --ink-2: #1B2A4A;
+  --paper: #EEF1F5;
+  --paper-2: #FFFFFF;
+  --accent: #FF6A00;
+  --accent-yellow: #FFC845;
+  --success: #157A46;
+  --danger: #B5222A;
+  --line: #D7DCE6;
+  --line-dark: #2A3B60;
+  --text: #10192E;
+  --text-muted: #5B6577;
+  --text-on-ink: #EEF1F5;
+
+  --font-display: 'Archivo', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  --radius: 4px;
+  --container: 1180px;
+}
